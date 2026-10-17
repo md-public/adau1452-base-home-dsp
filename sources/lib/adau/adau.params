@@ -1,0 +1,147 @@
+Cell Name         = VOL_MAIN
+Parameter Name    = HWGainADAU145XAlg1slew_mode
+Parameter Address = 22
+Parameter Value   = 8330
+Parameter Data :
+0x00, 0x00, 0x20, 0x8A, 
+
+
+
+Cell Name         = VOL_MAIN
+Parameter Name    = HWGainADAU145XAlg1target
+Parameter Address = 21
+Parameter Value   = 0.000100016593933105
+Parameter Data :
+0x00, 0x00, 0x06, 0x8E, 
+
+
+
+Cell Name         = VOL_SUB
+Parameter Name    = HWGainADAU145XAlg2slew_mode
+Parameter Address = 25
+Parameter Value   = 8330
+Parameter Data :
+0x00, 0x00, 0x20, 0x8A, 
+
+
+
+Cell Name         = VOL_SUB
+Parameter Name    = HWGainADAU145XAlg2target
+Parameter Address = 24
+Parameter Value   = 1
+Parameter Data :
+0x01, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = SWITCH_MAIN
+Parameter Name    = stereomuxSigma300ns1index
+Parameter Address = 26
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = Mute_1
+Parameter Name    = MuteNoSlewADAU145XAlg1mute
+Parameter Address = 27
+Parameter Value   = 1
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x01 ,	
+
+
+
+Cell Name         = Mute_2
+Parameter Name    = MuteNoSlewADAU145XAlg2mute
+Parameter Address = 30
+Parameter Value   = 1
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x01 ,	
+
+
+
+Cell Name         = Mute_3
+Parameter Name    = MuteNoSlewADAU145XAlg3mute
+Parameter Address = 28
+Parameter Value   = 1
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x01 ,	
+
+
+
+Cell Name         = Mute_4
+Parameter Name    = MuteNoSlewADAU145XAlg4mute
+Parameter Address = 31
+Parameter Value   = 1
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x01 ,	
+
+
+
+Cell Name         = Mute_5
+Parameter Name    = MuteNoSlewADAU145XAlg5mute
+Parameter Address = 29
+Parameter Value   = 1
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x01 ,	
+
+
+
+Cell Name         = Mute_6
+Parameter Name    = MuteNoSlewADAU145XAlg6mute
+Parameter Address = 32
+Parameter Value   = 1
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x01 ,	
+
+
+
+Cell Name         = Mute_7
+Parameter Name    = MuteNoSlewADAU145XAlg7mute
+Parameter Address = 33
+Parameter Value   = 1
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x01 ,	
+
+
+
+Cell Name         = Mute_8
+Parameter Name    = MuteNoSlewADAU145XAlg8mute
+Parameter Address = 34
+Parameter Value   = 1
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x01 ,	
+
+
+
+Cell Name         = None - Framework
+Parameter Name    = __SafeLoad_Module__data_SafeLoad
+Parameter Address = 24576
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+0x00, 0x00, 0x00, 0x00, 
+0x00, 0x00, 0x00, 0x00, 
+0x00, 0x00, 0x00, 0x00, 
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = None - Framework
+Parameter Name    = __SafeLoad_Module__address_SafeLoad
+Parameter Address = 24581
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
+Cell Name         = None - Framework
+Parameter Name    = __SafeLoad_Module__num_SafeLoad
+Parameter Address = 24582
+Parameter Value   = 0
+Parameter Data :
+0x00, 0x00, 0x00, 0x00, 
+
+
+
